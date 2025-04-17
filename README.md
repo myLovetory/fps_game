@@ -11,3 +11,5 @@ state machine để làm zombie
 singleton quản lý âm thanh
 
 :> ghét làm Ui wa
+
+sẽ sửa lại anim :>> maybe in the far future
